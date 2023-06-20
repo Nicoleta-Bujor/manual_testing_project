@@ -69,6 +69,9 @@ The entry criteria defined in the Test Planning phase have been fulfilled, and t
 
 Periodic reports are generated to provide an overview of the current test status. Jira and Zephyr tools are utilized for tracking and management purposes.
 
+![Screenshot_15](https://github.com/Nicoleta-Bujor/manual_testing_project/assets/136907555/98144450-178e-49da-8f7d-52d06739406d)
+
+
 ## 1.3 Test Analysis
 
 Requirements for UI testing and API testing were reviewed based on the provided documentation. Defects were identified and documented. After fixing the defects, updated documentation was released.
@@ -113,7 +116,16 @@ The traceability matrix was generated and can be found here: Traceability_matrix
 
 Test execution chart was generated, the final report shows.... -> describe the final report
 
--> enter here test execution report/chart
+![Screenshot_19](https://github.com/Nicoleta-Bujor/manual_testing_project/assets/136907555/e4176cf9-341d-4c9c-b31e-5fa1d26723df)
+![Screenshot_16](https://github.com/Nicoleta-Bujor/manual_testing_project/assets/136907555/18abc3b7-cbb8-4420-ab8d-bd9c270ca982)
+![Screenshot_15](https://github.com/Nicoleta-Bujor/manual_testing_project/assets/136907555/1ee73667-b7d4-4568-a40c-9619e20879d3)
+
 
 # 2 SQL section
-# 3 Postman
+
+I have successfully created my own database and performed various queries on it.
+
+![Screenshot_51](https://github.com/Nicoleta-Bujor/manual_testing_project/assets/136907555/a18724c4-2273-4370-81bd-fe1ee50d1641)
+
+You can locate the SQL queries executed for this project at the following location [Here](https://github.com/Nicoleta-Bujor/manual_testing_project/blob/main/SQL_Proiect_DB.sql)https://github.com/Nicoleta-Bujor/manual_testing_project/blob/main/SQL_Proiect_DB.sql
+
