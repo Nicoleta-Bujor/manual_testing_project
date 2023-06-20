@@ -4,11 +4,13 @@ The final project for the IT Factory Manual Testing course aims to demonstrate t
 
 Application under test: [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
 
-API Documentation:
+For this project, the XYZ Bank application will serve as the application under test. As the original documentation is unavailable, I have prepared my own documentation to identify bugs and perform static testing.
 
-The final project will be split into 2 sections: Testing section and SQL section.
+API Documentation: [Simple Book API Documentation](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
 
-Tools used:
+The final project will be divided into two main sections: Testing Section and SQL Section. Within the Testing Section, there will be two subsections: GUI Testing and API Testing using the Postman tool.
+
+Tools Used: Jira, Zephyr Squad, Postman, SQL Workbench, Github.
 
 # Functional specifications
 
