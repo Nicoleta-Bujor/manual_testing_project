@@ -100,13 +100,21 @@ Periodic reports are generated to provide an overview of the current test status
 Requirements for UI testing and API testing were reviewed based on the provided documentation. Defects were identified and documented. After fixing the defects, updated documentation was released.
 
 •	Login functionality
+
 •	Bank manager's ability to add a customer
+
 •	Bank manager's ability to open an account
+
 •	Verification of new customer addition to the customer list
+
 •	Bank manager's ability to delete a customer
+
 •	Customer's login functionality
+
 •	Customer's transaction history
+
 •	Customer's ability to view transactions within a specified period
+
 •	Customer's ability to make deposits and withdrawals
 
 ## 1.4 Test Design
