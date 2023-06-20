@@ -40,20 +40,37 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ### 1.1.1 Roles assigned to the project and persons allocated
 
+•	Scrum manager - Ioana Ionescu
+
+•	Software Tester - Marin Sorescu
+
+•	Review leader - Andrei Preutescu
+
+•	Software architect - Nicoleta Bujor
+
+•	Developer - Bianca Rusu
+
 ### 1.1.2 Entry criteria defined
 
 •	Roles and human resources allocated
+
 •	System is up and running
+
 •	User accounts are created
 
 ### 1.1.3 Exit criteria defined
 
 •	All test cases are executed
-•	At least 75% of executed test cases have a "Passed" status
-•	Maximum of 4 high-rated bugs remain open and assigned to developers for resolution
+
+•	At least 70% of executed test cases have a "Passed" status
+
+•	Maximum of 3 high-rated bugs remain open and assigned to developers for resolution
+
 •	Maximum of 10 open bugs, with no critical bugs remaining
+
 •	Regression testing is completed
-•	Testing deadline: 30.06.2023
+
+•	Testing deadline: 15.07.2023
 
 ### 1.1.4 Test scope
 
