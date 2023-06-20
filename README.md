@@ -1,8 +1,8 @@
 <h1> Final project for ITF Manual Testing Course </h1>
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
+The final project for the IT Factory Manual Testing course aims to demonstrate the application of acquired knowledge and skills in a real-world scenario. It involves the use of a live application to showcase testing techniques and methodologies.
 
-Application under test:
+Application under test: [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
 
 API Documentation:
 
