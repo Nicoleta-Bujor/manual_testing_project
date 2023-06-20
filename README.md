@@ -158,5 +158,5 @@ I have successfully created my own database and performed various queries on it.
 
 ![Screenshot_51](https://github.com/Nicoleta-Bujor/manual_testing_project/assets/136907555/a18724c4-2273-4370-81bd-fe1ee50d1641)
 
-You can locate the SQL queries executed for this project at the following location [Here](https://github.com/Nicoleta-Bujor/manual_testing_project/blob/main/SQL_Proiect_DB.sql)https://github.com/Nicoleta-Bujor/manual_testing_project/blob/main/SQL_Proiect_DB.sql
+You can locate the SQL queries executed for this project at the following location [HERE](https://github.com/Nicoleta-Bujor/manual_testing_project/blob/main/SQL_Proiect_DB.sql)https://github.com/Nicoleta-Bujor/manual_testing_project/blob/main/SQL_Proiect_DB.sql
 
