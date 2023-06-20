@@ -25,10 +25,15 @@ The XYZ Bank application is designed to cater to both customers and bank manager
 The Test Planning phase encompasses detailed testing information for the XYZ Bank application. It includes:
 
 •	Identification of items and features to be tested
+
 •	Types of testing to be performed
+
 •	Definition of entry and exit criteria
+
 •	Assignment of roles and responsibilities
+
 •	Allocation of time and financial resources
+
 •	Identification and assessment of risks
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
